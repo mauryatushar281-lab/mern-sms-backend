@@ -1,8 +1,0 @@
-MONGO_URL =  mongodb://localhost:27017/sms
-
- mongodb://127.0.0.1/smsproject
-
-SECRET_KEY = 'secret123key'
-
-
-
